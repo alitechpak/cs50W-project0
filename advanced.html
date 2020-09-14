@@ -1,0 +1,63 @@
+<html lang="en"><head>
+    <title>Google</title>
+    <link rel="stylesheet" href="advanced.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="icon" href="image/favicon.ico">
+</head>
+<body>
+    <div>
+        <div class="upright" style="z-index: 1; position: relative; padding: 10px;">
+            <a href="index.html">Google Search</a>
+        </div>
+            <div class="mlogo-border">
+                <div class="mlogo">
+                    <img src="image/googlelogo.png" height="35px" width="102px">
+                </div>
+            </div> <br>
+        <div class="appbar">
+            <label style="margin-left: 10px;">Advanced Search</label>
+        </div>
+        <div class="hrule"></div>
+
+        <div style="padding: 20px 5px;">
+            <span>Find pages with...</span>
+        </div>
+
+            <form action="https://google.com/search" class="adform">
+                <div class="grid">
+                    <div class="grid-item">
+                        <label for="all-words">all these words:</label>
+                    </div>
+                    <div class="grid-item">
+                        <input type="text" value autofocus="autofocus" name="as_q">
+                    </div>
+                    
+                    <div class="grid-item">
+                        <label for="exact-word">this exact word or phrase:</label>
+                    </div>
+                    <div class="grid-item">
+                        <input type="text"name="as_epq">
+                    </div>
+
+                    <div class="grid-item">
+                        <label for="any-word">any of these words:</label>
+                    </div>
+                    <div class="grid-item">
+                        <input type="text" name="as_oq">
+                    </div>
+
+                    <div class="grid-item">
+                        <label for="none-word">none of these words:</label>
+                    </div>
+                    <div class="grid-item">
+                        <input type="text" name="as_eq">
+                    </div>
+                </div>
+                    <div id="adv-submit">
+                        <input type="submit" name="" id="adv-submit" value="Advanced Search">
+                    </div>
+            </form>
+
+    </div>
+
+</body></html>
