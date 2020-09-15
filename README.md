@@ -18,4 +18,6 @@ Your website must meet the following requirements.
 -   [x]   **Aesthetics**. The CSS you write should match Google’s own aesthetics as best as possible.
 
 
+### [Visit Deployed Project](https://alitechpak.github.io/cs50web20-project0-search/)
+
 ### [Video Tutorial of This Project](https://youtu.be/dcxkcYadg0E)
