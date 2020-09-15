@@ -21,3 +21,6 @@ Your website must meet the following requirements.
     -   [x]   Consistent with Google’s own CSS, the “Advanced Search” button should be blue with white text. When the “Advanced Search” button is clicked, the user should be taken to search results page for their given query.
 -   [x]   **Lucky**. Add an “I’m Feeling Lucky” button to the main Google Search page. Consistent with Google’s own behavior, clicking this link should take users directly to the first Google search result for the query, bypassing the normal results page.
 -   [x]   **Aesthetics**. The CSS you write should match Google’s own aesthetics as best as possible.
+
+
+### [Video Tutorial of This Project](https://youtu.be/dcxkcYadg0E)
