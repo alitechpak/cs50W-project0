@@ -1,8 +1,3 @@
-<style>
-    * {
-        font-size: 15px;
-    }
-</style>
 #   Specifications
 
 Your website must meet the following requirements.
